@@ -1,5 +1,5 @@
 package rules
 
 allow {
-  main = false
+  main = true
 }
