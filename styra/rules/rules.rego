@@ -5,5 +5,5 @@ allow = msg {
 }
 
 allow_res {
-  input.resource = "ty18"
+  input.resource = "ty19"
 }
