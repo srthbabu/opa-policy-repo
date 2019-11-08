@@ -1,7 +1,7 @@
 package rules
 
 allow = msg {
-  msg = false
+  msg = true
 }
 
 allow_res {
