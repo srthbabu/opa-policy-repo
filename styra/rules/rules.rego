@@ -1,5 +1,6 @@
 package rules
 
-allow {
-  main = true
+allow = msg {
+  msg = false
 }
+
