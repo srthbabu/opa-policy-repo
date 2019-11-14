@@ -1,12 +1,10 @@
 package rules
 
 allow = msg {
-  msg = true
+  msg = false
 }
 
 allow_res {
-  input.resource = "hello"
-
+  input.resource = "helo"
 }
-
 
