@@ -6,5 +6,7 @@ allow = msg {
 
 allow_res {
   input.resource = "hello"
+
 }
+
 
