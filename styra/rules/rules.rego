@@ -5,6 +5,6 @@ allow = msg {
 } 
 
 allow_res {
-  input.resource = "Intuit"
+  input.resource = "Inddddtuit"
  }
 
